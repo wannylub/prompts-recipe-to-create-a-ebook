@@ -40,12 +40,9 @@ Canva：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
 ## 🛠️ Instruções de execução
 
-Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base. No Canva, utilizei mais dois prompts para imagens. Utilizei também uma ferramenta de edição de documentos como power point.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base. No Canva, utilizei mais dois prompts para imagens. Utilizei também uma ferramenta de edição de documentos como o acrobat reader.
 
 ## 👨‍💻 Expert
 
