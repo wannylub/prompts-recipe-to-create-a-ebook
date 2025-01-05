@@ -14,7 +14,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Canva](https://canva.com)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
 
 ## 🧠 Prompts
 
